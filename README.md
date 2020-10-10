@@ -25,7 +25,7 @@ Short summary on functionality and used technologies.
 
 Solution|Author(s)
 --------|---------
-folder name | Author details (name, company, twitter alias with link)
+folder name | Solution Provider (for YouTube Video)
 
 ## Version history
 
